@@ -1,2 +1,2 @@
 You can:
-add recipes(name, description, ingredients,directions)
+add recipes(name, description, ingredients,directions) & get it
