@@ -1,1 +1,2 @@
-
+Added:
+user creation(username,password,authority)
